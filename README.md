@@ -5,5 +5,3 @@ Estudos baseados no curso Udemy ministrado pelo Francis Klay Rocha,
 
 Curso com foco em desenvolvedores FullStack. 
 
-
-# Leia-me em andamento. 
